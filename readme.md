@@ -32,3 +32,7 @@ la primera vez les pedira la contraseña y la obtienen con el siguiente comando:
 ##### Para apagar el servidor ejecutan:
 
     docker stop jenkins-npm-persistente
+
+##### Si lo quieres volver a ejecutar:
+
+    docker start jenkins-npm-persistente
