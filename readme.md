@@ -4,7 +4,7 @@
 
 https://github.com/valentinfernandez1/Jenkins
 
-## Este repo cuenta un Docker file
+## Este repo cuenta un Dockerfile
 
 Evita tener que instalar jenkins, npm y nodejs.
 
